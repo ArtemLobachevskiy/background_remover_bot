@@ -1,2 +1,2 @@
 Телеграм бот для удаления фона у фотографий с человеком.
-Код модели можно посмотреть на моем kaggle: https://www.kaggle.com/hhhhhh211
+Код модели: https://www.kaggle.com/code/hhhhhh211/human-segmentation-for-telegram-bot
