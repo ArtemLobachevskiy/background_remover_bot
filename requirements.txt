@@ -1,0 +1,8 @@
+pillow
+segmentation_models_pytorch
+torch
+numpy
+torchvision
+pyTelegramBotAPI
+opencv-python-headless
+six
